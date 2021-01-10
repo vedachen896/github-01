@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="health_01_interface" />
+        <module name="health_01_dao" />
+        <module name="health_01_service" />
+        <module name="health_01_common" />
+        <module name="health_01_web" />
+        <module name="health_01_pojo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

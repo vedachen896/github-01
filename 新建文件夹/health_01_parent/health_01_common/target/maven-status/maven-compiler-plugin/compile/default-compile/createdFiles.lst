@@ -1,0 +1,4 @@
+com\baidu\health\constant\MessageConstant.class
+com\baidu\health\entity\PageResult.class
+com\baidu\health\entity\QueryPageBean.class
+com\baidu\health\entity\Result.class
